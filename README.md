@@ -74,7 +74,7 @@ Stay tuned!
 
 Follow my progress and future projects:
 
-LinkedIN: Wasiq Amir
+Linkedin: Wasiq Amir
 
 E-mail: wasiqamir3@gmail.com
 
