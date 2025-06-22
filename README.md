@@ -1,11 +1,11 @@
-# 📊 Data Science 101: A Beginner’s Guide
+# Data Science 101: A Beginner’s Guide
 
 Welcome to my very first portfolio piece!  
 This document summarizes what I learned in the **"What is Data Science?"** course from the **IBM Data Science Professional Certificate**.
 
 ---
 
-## 🚀 What is Data Science?
+## What is Data Science?
 
 Data Science is the practice of extracting meaningful insights and knowledge from data.  
 It blends techniques from:
@@ -16,7 +16,7 @@ It blends techniques from:
 
 ---
 
-## 🔑 Key Steps in a Data Science Project
+## Key Steps in a Data Science Project
 
 1. **Understand the Problem** — Define the business or research question.
 2. **Collect Data** — Gather data from databases, APIs, sensors, or files.
@@ -28,7 +28,7 @@ It blends techniques from:
 
 ---
 
-## 🧰 Common Tools & Libraries
+## Common Tools & Libraries
 
 | Category | Tools |
 | -------- | ----- |
@@ -41,16 +41,16 @@ It blends techniques from:
 
 ---
 
-## 🌍 Real-World Applications
+## Real-World Applications
 
-- 🎥 **Netflix**: Personalized movie and show recommendations.
-- 💳 **Finance**: Fraud detection for transactions.
-- 🏥 **Healthcare**: Predicting disease risk and patient outcomes.
-- 🛍️ **Retail**: Analyzing customer purchase patterns.
+- **Netflix**: Personalized movie and show recommendations.
+- **Finance**: Fraud detection for transactions.
+- **Healthcare**: Predicting disease risk and patient outcomes.
+- **Retail**: Analyzing customer purchase patterns.
 
 ---
 
-## 🎯 My Goal
+## My Goal
 
 I am learning Data Science to gain practical skills in:
 - Python programming
@@ -62,7 +62,7 @@ I will build and share **small projects for each course** I complete, step by st
 
 ---
 
-## ✅ Next Up
+## Next Up
 
 I’m currently working on the next course: **Tools for Data Science** — a practical introduction to the core tools I’ll be using throughout my learning journey.
 
@@ -70,7 +70,7 @@ Stay tuned!
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 Follow my progress and future projects:
 
@@ -80,5 +80,5 @@ E-mail: wasiqamir3@gmail.com
 
 ---
 
-**📌 Repo by Wasiq Amir**
+**Repo by Wasiq Amir**
 
