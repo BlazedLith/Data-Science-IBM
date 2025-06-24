@@ -1,72 +1,50 @@
-# Data Science 101: A Beginner’s Guide
+#  IBM Data Science Professional Certificate — My Learning Journey
 
-Welcome to my very first portfolio piece!  
-This document summarizes what I learned in the **"What is Data Science?"** course from the **IBM Data Science Professional Certificate**.
+Welcome to my repository documenting my progress through the **IBM Data Science Professional Certificate** on Coursera.  
 
----
-
-## What is Data Science?
-
-Data Science is the practice of extracting meaningful insights and knowledge from data.  
-It blends techniques from:
-- **Statistics & Mathematics**
-- **Programming & Software Engineering**
-- **Domain Knowledge**
-- **Data Visualization & Communication**
+Here, I organize **course notes, practice notebooks, and mini projects** for each module as I learn step by step.
 
 ---
 
-## Key Steps in a Data Science Project
+##  Courses & Folders
 
-1. **Understand the Problem** — Define the business or research question.
-2. **Collect Data** — Gather data from databases, APIs, sensors, or files.
-3. **Clean & Prepare Data** — Fix missing values, outliers, and errors.
-4. **Explore Data (EDA)** — Use statistics and plots to uncover patterns and trends.
-5. **Model & Analyze** — Build machine learning models to make predictions or generate insights.
-6. **Interpret & Communicate** — Present results clearly using visualizations and reports.
-7. **Deploy & Maintain** — Put the solution into production and monitor its performance.
+| Course No. | Course Name | Folder |
+| ---------- | ----------------------------- | ------------------------------- |
+| 1 | What is Data Science? | [`Course_1_What_is_Data_Science/`](Course_1_What_is_Data_Science/) |
+| 2 | Tools for Data Science | [`Course_2_Tools_for_Data_Science/`](Course_2_Tools_for_Data_Science/) |
+| ... | *(Upcoming)* | ... |
 
 ---
 
-## Common Tools & Libraries
+##  Purpose
 
-| Category | Tools |
-| -------- | ----- |
-| Programming | Python, R |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn |
-| Development Environment | Jupyter Notebooks, RStudio |
-| Big Data (Advanced) | Spark, Hadoop |
+This repository serves to:
+- Keep track of my progress as I complete each course.
+- Store my practice notebooks and summaries.
+- Build a foundation for future **portfolio projects**.
+- Document my growth in Python, data analysis, visualization, and machine learning.
 
 ---
 
-## Real-World Applications
+## Next Steps
 
-- **Netflix**: Personalized movie and show recommendations.
-- **Finance**: Fraud detection for transactions.
-- **Healthcare**: Predicting disease risk and patient outcomes.
-- **Retail**: Analyzing customer purchase patterns.
-
----
-
-## My Goal
-
-I am learning Data Science to gain practical skills in:
-- Python programming
-- Data cleaning & Exploratory Data Analysis (EDA)
-- Data visualization and storytelling
-- Building basic machine learning models
-
-I will build and share **small projects for each course** I complete, step by step!
+I will:
+- Complete each course module.
+- Add clear notes and notebooks inside each folder.
+- Create separate, polished repos for bigger projects and link them here.
 
 ---
 
-## Next Up
+##  About Me
 
-I’m currently working on the next course: **Tools for Data Science** — a practical introduction to the core tools I’ll be using throughout my learning journey.
+Hi! I’m Wasiq Amir — an aspiring Data Scientist on a journey to master:
+- Python 
+- Pandas, NumPy 
+- Data cleaning & EDA 
+- Visualization 
+- Machine Learning 
 
-Stay tuned!
+Stay tuned for my progress!
 
 ---
 
@@ -74,7 +52,7 @@ Stay tuned!
 
 Follow my progress and future projects:
 
-Linkedin: Wasiq Amir
+Linkedin: [Wasiq Amir](www.linkedin.com/in/wasiq-amir-2aa9bb259)
 
 E-mail: wasiqamir3@gmail.com
 
