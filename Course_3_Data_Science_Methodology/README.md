@@ -7,7 +7,7 @@ This folder contains my final assignment for **Course 3** of the IBM Data Scienc
 
 Spam detection is a classic and practical problem in machine learning. It has real-world importance for both personal productivity and organizational security.
 
-## 📈 Data Science Methodology Applied
+## Data Science Methodology Applied
 
 ### **Business Understanding**
 
