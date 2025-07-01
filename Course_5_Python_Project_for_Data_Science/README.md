@@ -32,7 +32,7 @@ This notebook demonstrates an end-to-end data science pipeline, integrating API 
 
 ---
 
-## ⚡ Skills Applied
+## Skills Applied
 
 - Python fundamentals
 - Pandas for data manipulation and cleaning
