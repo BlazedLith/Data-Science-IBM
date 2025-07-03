@@ -15,6 +15,7 @@ Here, I organize **course notes, practice notebooks, and mini projects** for eac
 | 3 | Data Science Methodology | [`Course_3_Data_Science_Methodology`](Course_3_Data_Science_Methodology) |
 | 4 | Python for Data Science | [`Course_4_Python_for_Data_Science/`](Course_4_Python_for_Data_Science/) |
 | 5 | Python Project for Data Science | [`Course_5_Python_Project_for_Data_Science/`](Course_5_Python_Project_for_Data_Science/) |
+| 6 | Python for Databases and SQL| [`Course_6_Databases_and_SQL/`](Course_6_Databases_and_SQL/) |
 | ... | *(Upcoming)* | ... |
 
 ---
