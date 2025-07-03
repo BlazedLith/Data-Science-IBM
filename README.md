@@ -2,7 +2,7 @@
 
 Welcome to my repository in which I will be documenting my progress through the **IBM Data Science Professional Certificate** on Coursera.  
 
-Here, I organize **course notes, practice notebooks, and mini projects** for each module as I learn step by step.
+Here, I organize **Final Assignments or Mini Projects** for each module as I learn step by step.
 
 ---
 
