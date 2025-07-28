@@ -151,5 +151,5 @@ def update_output_container(selected_statistics, input_year):
         return None
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
 
