@@ -1,4 +1,4 @@
-# IBM Data Science Specialization — Course 7: Data Analysis with Python
+# Course 7: Data Analysis with Python
 
 This repository contains my work for Course 7 of the IBM Data Science Specialization: **Data Analysis with Python**. The course focuses on using Python libraries to analyze data, build predictive models, and extract insights from datasets.
 
