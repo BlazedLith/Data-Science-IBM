@@ -17,6 +17,8 @@ Here, I organize **Final Assignments or Mini Projects** for each module as I lea
 | 5 | Python Project for Data Science | [`Course_5_Python_Project_for_Data_Science/`](Course_5_Python_Project_for_Data_Science/) |
 | 6 | Python for Databases and SQL| [`Course_6_Databases_and_SQL/`](Course_6_Databases_and_SQL/) |
 | 7 | Data Analysis with Python | [`Course_7_Data_Analysis_with_Python/`](Course_7_Data_Analysis_with_Python/) |
+| 8 | Data Visualization with Python | [`Course_8_Data_Visualization_with_Python/`](Course_8_Data_Visualization_with_Python/) |
+| 9 | Machine Learning with Python | [`Course_9_Machine_Learning_with_Python/`](Course_9_Machine_Learning_with_Python/) |
 | ... | *(Upcoming)* | ... |
 
 ---
