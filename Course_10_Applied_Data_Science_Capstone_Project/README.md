@@ -1,11 +1,11 @@
-# 🚀 Course 10: Applied Data Science Capstone
+# Course 10: Applied Data Science Capstone
 
 This folder contains my final project for **Course 10** of the IBM Data Science Professional Certificate:  
 **Applied Data Science Capstone**.
 
 ---
 
-## 📘 Course Overview
+## Course Overview
 
 This capstone project brought together everything I've learned in the previous 9 courses of the IBM Data Science track. It emphasized applying data science methodology in a real-world context, particularly focused on **predictive analytics and geospatial analysis**.
 
@@ -19,9 +19,9 @@ Key skills and tools used:
 
 ---
 
-## 🎯 Final Capstone Project: SpaceX Falcon 9 First Stage Landing Prediction
+## Final Capstone Project: SpaceX Falcon 9 First Stage Landing Prediction
 
-### 📝 Project Description
+### Project Description
 
 In this project, I developed a comprehensive data science solution to predict the success of SpaceX Falcon 9 first-stage landings. This analysis is crucial for determining launch costs, as SpaceX's competitive advantage comes from reusing the first stage, which accounts for approximately 60% of total launch costs.
 
@@ -35,7 +35,7 @@ In this project, I developed a comprehensive data science solution to predict th
 
 ---
 
-## ⚙️ Methodology & Workflow
+## Methodology & Workflow
 
 ### 1. **Data Collection**
    - **SpaceX REST API:** Retrieved launch data from `/v4/launches/past` endpoint
@@ -83,7 +83,7 @@ In this project, I developed a comprehensive data science solution to predict th
 
 ---
 
-## 📊 Key Results & Insights
+## Key Results & Insights
 
 ### Technical Results
 - **Model Accuracy:** 83.3% prediction accuracy using optimized models
@@ -104,25 +104,7 @@ In this project, I developed a comprehensive data science solution to predict th
 
 ---
 
-## 📂 Project Files
-
-| File | Description |
-|------|-------------|
-| `Winning-Space-Race-with-Data-Science.pptx` | **Final presentation** with executive summary and results |
-| `Data-Collection-API.ipynb` | SpaceX API data collection and processing |
-| `Data-Collection-Web-Scraping.ipynb` | Wikipedia web scraping for additional data |
-| `Data-Wrangling.ipynb` | Data cleaning, preprocessing, and label creation |
-| `EDA-Data-Visualization.ipynb` | Exploratory data analysis with visualizations |
-| `EDA-SQL.ipynb` | SQL-based data analysis and queries |
-| `Folium-Analytics.ipynb` | Interactive geospatial mapping and analysis |
-| `Machine-Learning.ipynb` | Classification model development and evaluation |
-| `spacex-dash-app.py` | Interactive Plotly Dash dashboard application |
-| `spacex_launch_dash.csv` | Processed dataset for dashboard and analysis |
-| `README.md` | This comprehensive project summary |
-
----
-
-## 🛠️ Technologies & Libraries Used
+## Technologies & Libraries Used
 
 **Data Collection & Processing:**
 - `requests` - API calls and web scraping
@@ -141,11 +123,11 @@ In this project, I developed a comprehensive data science solution to predict th
 - `StandardScaler` - Feature normalization
 
 **Database Analysis:**
-- SQL queries for data aggregation and analysis
+- Magic SQL queries for data aggregation and analysis
 
 ---
 
-## ✅ What I Learned
+## What I Learned
 
 - **End-to-End Data Science Workflow:** From data collection to model deployment
 - **API Integration:** Working with RESTful APIs and handling JSON responses
@@ -158,17 +140,7 @@ In this project, I developed a comprehensive data science solution to predict th
 
 ---
 
-## 🚀 Future Enhancements
-
-- **Advanced Models:** Implement ensemble methods (Random Forest, XGBoost) for improved accuracy
-- **Real-time Predictions:** Develop API endpoint for live landing success predictions
-- **Extended Features:** Incorporate weather data, rocket specifications, and mission complexity
-- **Time Series Analysis:** Forecast future landing success trends
-- **Cost Optimization Model:** Develop dynamic pricing model based on success probability
-
----
-
-## 🎖️ Project Achievements
+## Project Achievements
 
 This capstone project successfully demonstrates:
 - **Technical Proficiency:** Applied multiple data science techniques in a cohesive workflow
@@ -179,11 +151,8 @@ This capstone project successfully demonstrates:
 
 ---
 
-## ✉️ About
+## About
 
 This project was created as the capstone for the **IBM Data Science Professional Certificate** and represents the culmination of comprehensive data science training covering the entire analytics lifecycle.
 
-**Author:** Wasiq Amir  
-**Course:** IBM Data Science Professional Certificate - Course 10  
-**Project Focus:** Predictive Analytics & Machine Learning Classification  
-**Industry Application:** Aerospace & Space Technology
+**Author:** Wasiq Amir 
