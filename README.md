@@ -20,7 +20,6 @@ Here, I organize **Final Assignments or Mini Projects** for each module as I lea
 | 8 | Data Visualization with Python | [`Course_8_Data_Visualization_with_Python/`](Course_8_Data_Visualization_with_Python/) |
 | 9 | Machine Learning with Python | [`Course_9_Machine_Learning_with_Python/`](Course_9_Machine_Learning_with_Python/) |
 | 10 | Applied Data Science Capstone Project | [`Course_10_Applied_Data_Science_Capstone_Project/`](Course_10_Applied_Data_Science_Capstone_Project/) |
-| ... | *(Upcoming)* | ... |
 
 ---
 
